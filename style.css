@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Malar');
+
 
 html, body {
   padding: 0 0 0 0;
   margin: 0;
-  font-family: 'helvetica', 'arial', 'sans';
+  font-family: 'Mukta Malar', 'helvetica', 'arial', 'sans';
 }
 
 h1,h2,h3,h4 {
